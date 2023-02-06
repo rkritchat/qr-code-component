@@ -41,4 +41,4 @@ This is my first project on frontendmentor..
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rkritchat)
+- Frontend Mentor - [@rkritchat](https://www.frontendmentor.io/profile/rkritchat)
